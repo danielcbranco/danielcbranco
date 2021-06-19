@@ -21,5 +21,5 @@ My name is Daniel and I'm intern of SEFA.
 
 ### How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-7159c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-branco-687687210/)](https://www.linkedin.com/in/daniel-branco-687687210/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-7159c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrevictor50@gmail.com)](mailto:andrevictor50@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&labelColor=7159c1&logo=instagram&logoColor=white&link=https://www.instagram.com/andrecampll)](https://www.instagram.com/andre.tsx)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-7159c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrevictor50@gmail.com)](mailto:dcbrancoo@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&labelColor=7159c1&logo=instagram&logoColor=white&link=https://www.instagram.com/dcbrancoo)](https://www.instagram.com/dcbrancoo)
