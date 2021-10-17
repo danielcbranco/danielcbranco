@@ -1,6 +1,6 @@
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile
 
-My name is Daniel and I'm intern of SEFA.
+My name is Daniel and I'm a SEFA employee.
 
 ![Daniel GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=danielcbranco&show_icons=true&hide_border=true&title_color=7159c1&theme=dracula)
 
